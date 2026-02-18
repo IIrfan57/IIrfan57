@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Postdoctoral Researcher (Bioinformatics) building scalable genomics pipelines for genome assembly, variant discovery, and population-scale analysis.
 
-## About me!
+## About me
 
 •	Extensive experience with short-read (Illumina) and long-read DNA & RNA sequencing including PacBio HiFi, Oxford Nanopore, and Iso-Seq
 •	Strong background in de novo and reference-guided genome assembly, pan-genomics, GWAS, transcriptomics, and population genomics
